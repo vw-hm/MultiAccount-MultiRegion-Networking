@@ -1,5 +1,8 @@
 # MultiAccount-MultiRegion-Networking
 
+https://github.com/vw-hm/MultiAccount-MultiRegion-Networking/blob/main/Architecture.png?raw=true![Uploading image.png…]()
+
+
 🚀 Navigating the Complexities of Cross-Region Connectivity in AWS: A Deep Dive into Multi-Account, Multi-VPC Architecture
 
 Thrilled to share an in-depth exploration of our evolved networking architecture, now incorporating AWS Transit Gateway, Transit Gateway Peering, AWS Resource Access Manager (RAM), and a thorough comparison between Transit Gateway peering and resource sharing across accounts using RAM! 🌐
